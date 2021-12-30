@@ -1,2 +1,2 @@
 # Calculadora 
-Projetos pessoais feitos a partir do meu conhecimento básico.
+Calculadora feita em JavaScript e HTML5.
